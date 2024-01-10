@@ -8,11 +8,17 @@ This project aims to create a social media platform, but it is still a work in p
 ## Features
 
 - [x] User registration and authentication
-- [ ] Post creation and sharing
+- [ ] Post creation
+- [x] Posts feed
+- [x] Ability to like post
+- [ ] Ability to like comment
+- [ ] Explore communities
+- [ ] Profile page
 - [x] Commenting on posts
 - [x] User profiles and customization
 - [ ] Friend requests and connections
-
+- [ ] Notifications box
+- [ ] Messages box
 ## Getting Started
 
 To run this project locally, follow these steps:
