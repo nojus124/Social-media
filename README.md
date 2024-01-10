@@ -1,4 +1,5 @@
 # Social Media Project
+![image](https://github.com/nojus124/Social-media/assets/46402646/c2747830-55fe-4be1-b93e-010b1955fe6b)
 
 ## Overview
 
@@ -19,7 +20,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/social-media.git
+   git clone https://github.com/nojus124/social-media.git
    ```
 2. Install dependencies:
 
