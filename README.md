@@ -1,6 +1,9 @@
 # Social Media Project
 ![image](https://github.com/nojus124/Social-media/assets/46402646/c2747830-55fe-4be1-b93e-010b1955fe6b)
 
+### Figma design:
+See design [here](https://www.figma.com/file/vkzC9qBPWr2HhepVUpESdG/UniVERSE-%3A-a-concept-social-media-community-website-design)
+
 ## Overview
 
 This project aims to create a social media platform, but it is still a work in progress. Feel free to contribute or follow along with the development progress.
