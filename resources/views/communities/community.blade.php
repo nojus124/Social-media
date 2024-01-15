@@ -3,7 +3,8 @@
             Communities
     </x-slot>
 
-    <div class="py-12">
+    <div class="text-2xl font-semibold p-8">
         Communities
     </div>
+    <livewire:show-communities-cards />
 </x-app-layout>

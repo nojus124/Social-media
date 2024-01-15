@@ -78,7 +78,7 @@
             </div>
             @if(count($post->comments) > 1)
                 <div x-show="!SeeComments" @click="SeeComments = true" class="mt-3 text-end text-customBlack text-sm cursor-pointer select-none">See all...</div>
-                <div x-show="SeeComments" @click="SeeComments = false" class="mt-3 text-end text-customBlack text-sm cursor-pointer select-none">See less</div>
+                <div x-cloak x-show="SeeComments" @click="SeeComments = false" class="mt-3 text-end text-customBlack text-sm cursor-pointer select-none">See less</div>
             @endif
         </div>
     @endforeach

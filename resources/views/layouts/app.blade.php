@@ -55,7 +55,7 @@
                 </div>
                 @livewire('show-communities')
             </div>
-            <div class="w-9/12 min-h-full">
+            <div class="w-9/12 min-h-screen">
                 <div class="min-h-full bg-gray-100 dark:bg-gray-900">
                     @livewire('navigation-menu')
                     <!-- Page Content -->

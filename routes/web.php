@@ -22,9 +22,7 @@ Route::middleware([
     config('jetstream.auth_session'),
     'verified',
 ])->group(function () {
-    Route::get('/social', function () {
-        return view('dashboard');
-    })->name('dashboard');
+    Route::get('/social', [\App\Http\Controllers\UserFriendship::class, 'showPeopleMayKnow'])->name('dashboard');
     Route::get('/communities', function () {
         return view('communities.community');
     })->name('communities.community');
