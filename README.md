@@ -15,7 +15,7 @@ This project aims to create a social media platform, but it is still a work in p
 - [x] Posts feed
 - [x] Ability to like post
 - [ ] Ability to like comment
-- [ ] Explore communities
+- [x] Explore communities
 - [ ] Profile page
 - [x] Commenting on posts
 - [x] User profiles and customization
